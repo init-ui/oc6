@@ -1,0 +1,6 @@
+numpy>=2.4.4
+pytesseract>=0.3.13
+pandas>=3.0.2
+PyQt5>=5.15.11
+
+
